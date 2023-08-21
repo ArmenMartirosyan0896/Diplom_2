@@ -1,0 +1,10 @@
+api/client/UserClient.class
+api/model/AllIngredients$AllIngredientsBuilder.class
+api/model/User.class
+api/model/Ingredient.class
+api/model/AllIngredients.class
+api/model/User$UserBuilder.class
+api/model/Ingredient$IngredientBuilder.class
+api/client/OrderClient.class
+api/model/ResponseWithToken.class
+api/model/ResponseWithToken$ResponseWithTokenBuilder.class
